@@ -30,7 +30,7 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 
 
 
-Resposta: O código está no arquivo faturamento.c (Não encontrei nenhum arquivo json ou xml com os valores a serem utilizados, então criei valores aleatorios)
+Resposta: O código está no arquivo faturamento.c 
 
 
 
